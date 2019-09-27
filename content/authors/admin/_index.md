@@ -31,7 +31,7 @@ education:
   - course: PhD in Mathematics
     institution: The Ohio State University
     year: 2016
-  - course: BA in Mathematics and Theatre
+  - course: BA in Mathematics and in Theatre
     institution: Wesleyan University
     year: 2007
 
@@ -60,5 +60,5 @@ user_groups:
 - Visitors
 ---
 
-I am an assistant research professor at Duke University. My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and using the names of primary areas of research as adjectives to describe more specific areas of research.
+I am an Assistant Research Professor of Matheatics at Duke University. My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and using the names of primary areas of research as adjectives to describe more specific areas of research.
 
