@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-07-01"
   date_end = ""
-  description = """
+  description = ""
 
 [[experience]]
   title = "Duke Postdoctoral Association Social Chair"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-08-01"
   date_end = "2019-08-01"
-  description = """"""
+  description = ""
 
 [[experience]]
   title = "Visiting Assistant Professor"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-01-01"
   date_end = "2018-07-01"
-  description = """"""
+  description = ""
   
 [[experience]]
   title = "Postdoctoral Fellow"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2016-08-01"
   date_end = "2016-12-15"
-  description = """"""
+  description = ""
 
 +++
