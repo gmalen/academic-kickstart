@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
@@ -52,7 +52,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "crystal.jpg"  # Name of image in `static/img/`.
+   image = "crystalimg.jpg"  # Name of image in `static/img/`.
    image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
