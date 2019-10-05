@@ -18,13 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in topological combinatorics, combinatorial and stochastic topology, topological data analysis, and using the names of primary areas of research as adjectives to describe more specific areas of research.
+bio: My research interests are in topological combinatorics, combinatorial and stochastic topology, topological data analysis, and combining the names of primary areas of research to describe more specific areas of research.
 
 interests:
-- Graph Theory
 - Random Cell Complexes
+- Graph Theory
+- Topological Data Analysis
 - Polyforms
-- TDA
+
 
 education:
   courses:
@@ -52,7 +53,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -60,5 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Research Professor of Matheatics at Duke University. My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and using the names of primary areas of research as adjectives to describe more specific areas of research.
+I am a postdoc at Duke University, working under the mentorship of Sayan Muhkerjee. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle, and spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM), before arriving at Duke.
 
+My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and combining the names of primary areas of research to describe more specific areas of research.
