@@ -68,8 +68,8 @@ subtitle = ""
  css_class = ""
 +++
 
-_k-Collapsibility of Random Clique Complexes_. IMA Applied Algebraic Topology Research
-Network, February 2017.
-
 _Dense Random Clique Complexes_. JMM Special Session on Topological Data Analysis, January
 2018.
+
+_k-Collapsibility of Random Clique Complexes_. IMA Applied Algebraic Topology Research
+Network, February 2017.
