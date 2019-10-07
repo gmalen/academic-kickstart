@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc at Duke University, working under the mentorship of Sayan Muhkerjee. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle, and spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM), before arriving at Duke.
+I am a postdoc at Duke University, working under the mentorship of Sayan Mukherjee. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle, and spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM), before arriving at Duke.
 
 My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and combining the names of primary areas of research to describe more specific areas of research.
