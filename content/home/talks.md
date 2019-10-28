@@ -68,6 +68,8 @@ subtitle = ""
  css_class = ""
 +++
 
+_The Topology and Structure of Crystallized Polyforms_. SUNY at Albany Algebra/Topology Seminar, October 2019.
+
 _Dense Random Clique Complexes_. JMM Special Session on Topological Data Analysis, January
 2018.
 
