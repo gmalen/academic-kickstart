@@ -49,8 +49,10 @@ subtitle = ""
 
 MATH/STA 230 (and 730): Probability (Spring 2017, 2018, 2019; Fall 2017, 2019)
 
-Current Syllabus: https://math.duke.edu/~gmalen/230/Fall_19/course.html
+MATH/STA 340: Advanced Introduction to Probability (Spring 2020)
 
 MATH 371: Combinatorics (Fall 2018)
 
 MATH 412: Topological Data Analysis (Spring 2018)
+
+MATH 590: Topics in Applied Topology (Spring 2020)
