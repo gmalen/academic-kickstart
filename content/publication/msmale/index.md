@@ -1,11 +1,11 @@
 ---
-title: "Moduli Spaces of Morse Functions for Persistence"
-date: 2019-09-01
+title: "Moduli spaces of morse functions for persistence"
+date: 2020-06-27
 publishDate: 2019-09-27T22:47:45.982477Z
 authors: ["Michael J. Catanzaro", "Justin Curry", "Brittany Terese Fasy", "Jānis Lazovskis", "Greg Malen", "Hans Riess", "Bei Wang", "Matthew Zabka"]
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*arXiv preprint*"
-url_pdf: "https://arxiv.org/abs/1909.10623"
+publication: "*Journal of Applied d Computational Topology*"
+url_pdf: "http://link.springer.com/article/10.1007/s41468-020-00055-x"
 ---
