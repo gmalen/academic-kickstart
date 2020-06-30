@@ -1,5 +1,5 @@
 ---
-title: "Polyiamonds Attaining Extremal Topological Properties"
+title: "Polyiamonds attaining extremal topological properties, part I"
 date: 2019-01-01
 publishDate: 2019-09-27T22:47:45.980709Z
 authors: ["Greg Malen", "Érika Roldán"]
