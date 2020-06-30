@@ -3,6 +3,8 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
+text_color_light = false
+
 
 title = "My Favorite Crystallized Polyiamond"
 subtitle = "A *crystallized* polyform is one with the number of tiles necessary to support the number of bounded holes in the structure."
