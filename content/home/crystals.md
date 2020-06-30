@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "My Favorite Crystallized Polyiamond"
-subtitle = "A *crystallized* polyform is one in which the number of tiles is minimal with respect to the number of bounded holes in the structure."
+subtitle = "A *crystallized* polyform is one with the number of tiles necessary to support the number of bounded holes in the structure."
 
 
 +++
