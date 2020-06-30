@@ -7,7 +7,7 @@ text_color_light = false
 
 
 title = "My Favorite Crystallized Polyiamond"
-subtitle = "A *crystallized* polyform is one with the number of tiles necessary to support the number of bounded holes in the structure."
+subtitle = "A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure."
 
 
 +++
