@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Phillip Griffiths Assistant Research Professor
+role: Visiting Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
+- name: Union College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "gmalen@math.duke.edu".
+  link: '#contact'  # For a direct email link, use "maleng@union.edu".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc at Duke University, working under the mentorship of Sayan Mukherjee. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle, and spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM), before arriving at Duke.
+I am a Visiting Assistant Professor of Mathematics at Union College. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle. I then spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM) and three years as a postdoc at Duke University before arriving at Union. I spent two years living in New York City in my misspent youth, and have enjoyed the opportunity that Union has afforded me to tell friends there that I am moving back to New York, just to see how long it takes them to sort out the confusion.
 
 My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and combining the names of primary areas of research to describe more specific areas of research.
