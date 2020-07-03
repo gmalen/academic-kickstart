@@ -61,6 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Assistant Professor of Mathematics at Union College. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle. I then spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM) and three years as a postdoc at Duke University before arriving at Union. I spent two years living in New York City in my misspent youth, and have enjoyed the opportunity that Union has afforded me to tell friends there that I am moving back to New York, just to see how long it takes them to sort out the confusion.
+I am a Visiting Assistant Professor of Mathematics at Union College. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle. I then spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM) and three years as a postdoc at Duke University before arriving at Union.
 
 My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and combining the names of primary areas of research to describe more specific areas of research.
