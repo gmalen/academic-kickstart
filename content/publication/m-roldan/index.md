@@ -6,6 +6,6 @@ authors: ["Greg Malen", "Érika Roldán"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "* to appear in Geombinatorics, preprint arXiv:1906.08447*"
+publication: "Geombinatorics"
 url_pdf: "https://arxiv.org/abs/1906.08447"
 ---
