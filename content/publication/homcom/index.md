@@ -6,6 +6,6 @@ authors: ["Greg Malen"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Discrete Math.*"
+publication: "*Discrete Math*"
 url_pdf: "https://doi.org/10.1016/j.disc.2018.06.014"
 ---
