@@ -45,7 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## At Union
+## At Union:
 
 Probability (Winter 2021, Spring 2021), Geometry (Spring 2021), Accelerated Single Variable Calculus (Fall 2020, Winter 2021).
 
