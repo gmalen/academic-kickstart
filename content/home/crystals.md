@@ -6,8 +6,8 @@ weight = 60  # Order that this section will appear.
 text_color_light = false
 
 
-title = "My Favorite Crystallized Polyiamond"
-subtitle = "A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure."
+title = "Extremal Polyforms"
+subtitle = "You can explore extremal *hyperbolic* polyforms via our applet at https://www.erikaroldan.net/extremal-p-q-animals. A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure."
 
 
 +++
