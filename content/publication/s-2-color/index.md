@@ -7,5 +7,5 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Geombinatorics*"
-url_pdf: "https://arxiv.org/abs/1412.2091"
+url_pdf: "https://arxiv.org/pdf/1412.2091.pdf"
 ---
