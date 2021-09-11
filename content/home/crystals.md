@@ -7,7 +7,7 @@ text_color_light = false
 
 
 title = "Extremal Polyforms"
-subtitle = "You can explore extremal *hyperbolic* polyforms via our applet at https://www.erikaroldan.net/extremal-p-q-animals. A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure."
+subtitle = "You can explore extremal *hyperbolic* polyforms via an applet at https://www.erikaroldan.net/extremal-p-q-animals. A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure."
 
 
 +++
