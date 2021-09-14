@@ -101,7 +101,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "Monday/Friday: 10:30am-11:30, Wednesday: 3:30pm-4:30"
+office_hours = "M/W/F: 1:00pm-2:00pm"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
