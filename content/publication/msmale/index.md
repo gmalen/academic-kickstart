@@ -6,6 +6,6 @@ authors: ["Michael J. Catanzaro", "Justin Curry", "Brittany Terese Fasy", "Jāni
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Applied d Computational Topology*"
+publication: "*Journal of Applied and Computational Topology*"
 url_pdf: "http://link.springer.com/article/10.1007/s41468-020-00055-x"
 ---
