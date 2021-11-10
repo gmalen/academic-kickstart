@@ -7,9 +7,10 @@ text_color_light = false
 
 
 title = "Extremal Polyforms"
-subtitle = "You can explore extremal *hyperbolic* polyforms via our applet at https://www.erikaroldan.net/extremal-p-q-animals. A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure."
+subtitle = ""
 
 
 +++
+You can explore extremal *hyperbolic* polyforms via our applet at https://www.erikaroldan.net/extremal-p-q-animals. A *crystallized* polyform is one with the minimal number of tiles necessary to support the number of bounded holes in the structure.
 
 {{< figure library="true" src="crystalimg.jpg" title="$$T_{315}\ast Spir_8$$ 1033 tiles and 315 holes" lightbox="true" >}}
