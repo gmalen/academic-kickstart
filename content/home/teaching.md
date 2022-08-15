@@ -47,7 +47,7 @@ subtitle = ""
 +++
 ## At Union:
 
-Probability (Winter 2021, Spring 2021), Geometry (Spring 2021), Accelerated Single Variable Calculus (Fall 2020, Winter 2021).
+Topics in Discrete Mathematics (Fall 2021, Fall 2022), Intro to Logic and Set Theory (Winter 2022) Probability (Winter 2021, Spring 2021, Winter 2022), Geometry (Spring 2021), Accelerated Single Variable Calculus (Fall 2020, Winter 2021, Fall 2022), Single Variable Calculus (Spring 2022).
 
 ## At Duke:
 
