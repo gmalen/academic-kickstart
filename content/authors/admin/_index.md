@@ -61,6 +61,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Assistant Professor of Mathematics at Union College. I completed my PhD at The Ohio State University in 2016 under the advisement of Matthew Kahle. I then spent a semester as a research fellow at the Institute for Experimental and Computational Research in Mathematics (ICERM) and three years as a postdoc at Duke University before arriving at Union.
+I am a Visiting Assistant Professor of Mathematics at Union College. My research interests include topological and geometric data analysis, topological combinatorics, and combinatorial and stochastic topology. At Union I teach courses in Discrete Math, Probability, Logic and Set Theory, and Calculus.
 
-My research interests include topological combinatorics, combinatorial and stochastic topology, topological and geometric data analysis, and combining the names of primary areas of research to describe more specific areas of research.
+In addition to my teaching and research, I run Union's incredibly fun Putnam team and am the Faculty Advisor for the Women's Soccer team. I also regularly supervize student research projects and independent studies in both pure and applied topics. 
+
+My other interests include: short stories, theatre, making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; playing soccer until my ankles spontaneously combust; and walking very, very long distances at a calm and steady pace. 
