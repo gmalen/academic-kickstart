@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bailey Hall 108-B", city = "Schenectady", region = "NY", postcode = "12308", country = "", country_code = ""}
+address = {street = "Bailey Hall 206-B", city = "Schenectady", region = "NY", postcode = "12308", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -101,7 +101,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "M/W/F: 1:00pm-2:00pm"
+office_hours = "M/W: 3:00pm-4:00pm"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
