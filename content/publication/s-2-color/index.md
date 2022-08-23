@@ -10,4 +10,4 @@ publication: "*Geombinatorics*"
 url_pdf: "https://arxiv.org/pdf/1412.2091.pdf"
 ---
 
-{{< figure library="true" src="nongraphequiv.png" title="Two Morse functions $\mathbb{S}^2\rightarrow\mathbb{R}$ with the same barcode, Reeb graph, and merge tree, but which are not graph equivalent." lightbox="true" >}}
+{{< figure library="true" src="globes.png" title="Bounds on the chromatic number of spheres of small radii." lightbox="true" >}}
