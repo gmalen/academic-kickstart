@@ -9,3 +9,5 @@ featured: false
 publication: "Geombinatorics"
 url_pdf: "https://arxiv.org/abs/1906.08447"
 ---
+
+and $n\\_k=(1/2)(9k^2+3k-4)$ tiles such that $g\\_{\\triangle}(n\\_k)=h\\_k$. Furthermore, these polyiamonds all attain a specific set of efficient geometric and topological properties.
