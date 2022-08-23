@@ -10,4 +10,4 @@ publication: "*arXiv preprint*"
 url_pdf: "https://arxiv.org/pdf/2109.05331.pdf"
 ---
 
-{{< figure library="true" src="S37-4-5.png" title="Spiral animal with 37 tiles in the $$\{4,5\}$-tessellation." lightbox="true" >}}
+{{< figure library="true" src="S37-4-5.png" title="Spiral animal with 37 tiles in the $$\{4,5\}$$-tessellation." lightbox="true" >}}
