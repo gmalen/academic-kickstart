@@ -10,3 +10,5 @@ featured: false
 publication: "*Journal of Applied and Computational Topology*"
 url_pdf: "http://link.springer.com/article/10.1007/s41468-020-00055-x"
 ---
+
+{{< figure library="true" src="nongraphequiv.png" title="Two Morse functions $\mathbb{S}^2\rightarrow\mathbb{R}$ with the same barcode, Reeb graph, and merge tree, but which are not graph equivalent." lightbox="true" >}}
