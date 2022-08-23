@@ -10,7 +10,7 @@ publication: "*The Electronic Journal of Combinatorics*"
 url_pdf: "https://www.combinatorics.org/ojs/index.php/eljc/article/view/v29i3p15/pdf"
 ---
 
-{{< figure library="true" src="holeyominoes_torus1.pdf" title="A fundamental domain for a linear flow used to define toric polycubes.  A contiguous portion of the flow line is highlighted in red." lightbox="true" >}}
+{{< figure library="true" src="holeyominoes_torus.png" title="A fundamental domain for a linear flow used to define toric polycubes.  A contiguous portion of the flow line is highlighted in red." lightbox="true" >}}
 
  
  
