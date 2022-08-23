@@ -10,4 +10,4 @@ publication: "Geombinatorics"
 url_pdf: "https://arxiv.org/abs/1906.08447"
 ---
 
-
+{{< figure library="true" src="5-Figure4-1.png" title="A sequence of cyrstallized polyiamonds built by adding specific sets of tiles." lightbox="true" >}}
