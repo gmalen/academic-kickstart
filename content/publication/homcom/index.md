@@ -10,4 +10,4 @@ publication: "*Discrete Math*"
 url_pdf: "https://doi.org/10.1016/j.disc.2018.06.014"
 ---
 
-   Furthermore, we use this result to examine homological phase transitions in the random polyhedral complexes for a fixed constant $c > 0$
+   , we use this result to examine homological phase transitions in the random polyhedral complexes for a fixed constant $c > 0$
