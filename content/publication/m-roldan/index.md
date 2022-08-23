@@ -9,3 +9,5 @@ featured: false
 publication: "Geombinatorics"
 url_pdf: "https://arxiv.org/abs/1906.08447"
 ---
+
+{{< figure library="true" src="layerbuild.png" title="Process for adding a layer, going from a spiral with side length 2 to a spiral with side length 4." lightbox="true" >}}
