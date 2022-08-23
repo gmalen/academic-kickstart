@@ -65,4 +65,4 @@ I am a Visiting Assistant Professor of Mathematics at Union College. My research
 
 In addition to my teaching and research, I run Union's incredibly fun Putnam team and am the Faculty Advisor for the Women's Soccer team. I also regularly supervize student research projects and independent studies in both pure and applied topics. 
 
-My other interests include: short stories; theatre and performing arts; chess and old school card games; making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; playing soccer until my ankles spontaneously combust; and hiking. 
+My other interests include: short stories; theatre and performing arts; chess and old school card games; making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; and playing soccer until my ankles spontaneously combust. 
