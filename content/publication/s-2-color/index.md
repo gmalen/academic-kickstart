@@ -3,7 +3,7 @@ title: "Measurable colorings of $S^2_r$"
 date: 2015-01-01
 publishDate: 2019-09-27T22:47:45.976251Z
 authors: ["Greg Malen"]
-publication_types: ["2"]
+publication_types: [""]
 abstract: "We show that $\\chi\\_m(\\mathbb{S}\\_r^2)$, the measurable chromatic number of the sphere of radius $r$, is at least 5 for almost all spheres with $r > \\frac{1}{\\sqrt{3}}$."
 featured: false
 publication: "*Geombinatorics*"
