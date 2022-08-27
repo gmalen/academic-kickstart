@@ -63,6 +63,6 @@ user_groups:
 
 I am a Visiting Assistant Professor of Mathematics at Union College. My research interests include topological and geometric data analysis, topological combinatorics, and combinatorial and stochastic topology. At Union I teach courses in Discrete Math, Probability, Geometry, Logic and Set Theory, and Calculus.
 
-In addition to my teaching and research, I regularly supervize student research projects and independent studies in both pure and applied topics. I also run Union's incredibly fun Putnam team, and I serve as the Faculty Advisor for the Women's Soccer team. 
+In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. I also run Union's incredibly fun Putnam team, and I serve as the Faculty Advisor for the Women's Soccer team. 
 
 My other interests include: short stories; theatre and the performing arts; chess and old school card games; making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; and playing soccer until my ankles spontaneously combust. 
