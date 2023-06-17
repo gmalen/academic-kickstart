@@ -85,12 +85,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "maleng@union.edu"
+email = "gmalen@skidmore.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bailey Hall 206-B", city = "Schenectady", region = "NY", postcode = "12308", country = "", country_code = ""}
+address = {street = "CIS 330 A", city = "Saratoga Springs", region = "NY", postcode = "12308", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -101,7 +101,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "M/W: 3:00pm-4:00pm"
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
