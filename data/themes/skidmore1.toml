@@ -1,0 +1,19 @@
+# Theme metadata
+name = "skidmore1"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#006a52"
+
+# Menu
+menu_primary = "#006a52"
+menu_text = "#ffd100"
+menu_text_active = "#e4e2d2"
+menu_title = "#ffd100"
+
+# Home sections
+background = "#dbe2e9"
+home_section_odd = "#dbe2e9"
+home_section_even = "#f0f3f5"
