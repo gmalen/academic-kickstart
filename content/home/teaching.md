@@ -45,7 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-##Skidmore Courses (more info available in the fall):
+## Skidmore Courses (more info available in the fall):
 
 **MA 113: Calc 2.** M 9:05-10:00am, Tu/Th 9:40-11:00am in Annex 216
 **MA 215: Intro to Proof.** M 1:25-2:20pm, Tu/Th 2:10-3:30pm in Bolton 100
