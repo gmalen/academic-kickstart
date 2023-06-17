@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Assistant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Union College
+- name: Skidmore College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "maleng@union.edu".
+  link: '#contact'  # For a direct email link, use "gmalen@skidmore.edu".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -61,8 +61,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Visiting Assistant Professor of Mathematics at Union College. My research interests include topological and geometric data analysis, topological combinatorics, and combinatorial and stochastic topology. At Union I teach courses in Discrete Math, Probability, Geometry, Logic and Set Theory, and Calculus.
+I am a Assistant Professor of Mathematics at Skidmore College. My research interests include topological and geometric data analysis, topological combinatorics, and combinatorial and stochastic topology.
 
-In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. I also run Union's incredibly fun Putnam team, and I serve as the Faculty Advisor for the Women's Soccer team. 
+In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. Previously, I worked down the road at Union College where I ran their incredibly fun Putnam team and served as the Faculty Advisor for the Women's Soccer team (my Liberty League alliances will be seriously tested this fall when the two squads face off in Saratoga).
 
 My other interests include: short stories; theatre and the performing arts; chess and old school card games; making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; and playing soccer until my ankles spontaneously combust. 
