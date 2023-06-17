@@ -45,16 +45,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Skidmore Courses (more info available in the fall):
+## Courses for Fall 2023 (more info available in September):
 
 **MA 113: Calc 2.** M 9:05-10:00am, Tu/Th 9:40-11:00am in Annex 216
 
 **MA 215: Intro to Proof.** M 1:25-2:20pm, Tu/Th 2:10-3:30pm in Bolton 100
 
-## At Union:
-
-Topics in Discrete Mathematics (FA 2021, FA 2022), Intro to Logic and Set Theory (WI 2022, WI 2023, SP 2023) Probability (WI 2021, SP 2021, WI 2022), Geometry (SP 2021), Accelerated Single Variable Calculus (FA 2020, WI 2021, FA 2022), Calculus 2: Integral Calculus (SP 2022, WI 2023, SP 2023).
-
-## At Duke:
-
-Probability (Spring 2017, 2018, 2019; Fall 2017, 2019), Advanced Introduction to Probability (Spring 2020), Combinatorics (Fall 2018), Topological Data Analysis (Spring 2018), Topics in Applied Topology (Spring 2020).
