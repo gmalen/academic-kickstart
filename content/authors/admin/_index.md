@@ -63,6 +63,6 @@ user_groups:
 
 I am an Assistant Professor of Mathematics at Skidmore College. My research interests include topological and geometric data analysis, topological combinatorics, and combinatorial and stochastic topology.
 
-In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. Previously, I worked down the road at Union College where I ran their incredibly fun Putnam team and served as the Faculty Advisor for the Women's Soccer team (my Liberty League alliances will be seriously tested this fall when the two squads face off in Saratoga).
+In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. Previously, I worked down the road at Union College where I ran their incredibly fun Putnam team and served as the Faculty Advisor for the Women's Soccer team (my Liberty League alliances are very complicated at the moment). I am also on the steering committee for the Hudson River Undergraduate Math Conference (HRUMC). Information about HRUMC can be found at: https://sites.google.com/view/hrumc, with updated details on the 2024 conference coming soon!
 
 My other interests include: short stories; theatre and the performing arts; chess and old school card games; making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; and playing soccer until my ankles spontaneously combust. 
