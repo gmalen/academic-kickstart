@@ -45,7 +45,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Currently on sabbatical for Spring 2026. My scheduled courses for Fall 2026 are:
+## I'm currently on sabbatical for Spring 2026. My scheduled courses for Fall 2026 are:
+
 
 **MA 225H: Honors: Problem Solving.** W 4:00-5:20pm
 
