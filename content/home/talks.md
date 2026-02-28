@@ -68,6 +68,12 @@ subtitle = ""
  css_class = ""
 +++
 
+_An Expansion Regime for Random Clique Complexes_. AMS 2024 Fall Eastern Sectional Meeting at SUNY at Albany, October 2024
+
+_Graph Homomorphisms and Topological Bounds on Chromatic Number_. Union College Math Department Student Seminar, May 2024.
+
+_Extremal Polyforms and Hyperbolic Animals_. Carnegie Mellon University Algorithms, Combinatorics and Optimization Seminar, November 2023.
+
 _The Topology and Structure of Crystallized Polyforms_. SUNY at Albany Algebra/Topology Seminar, October 2019.
 
 _Dense Random Clique Complexes_. JMM Special Session on Topological Data Analysis, January
