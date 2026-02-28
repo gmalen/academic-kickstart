@@ -51,7 +51,7 @@ subtitle = ""
 
 **MA 225H: Honors: Problem Solving.** &ensp; W 4:00-5:20pm
 
-**MA 313: Intro to Topology.**   Tu/Th 11:10am-12:30pm
+**MA 313: Intro to Topology.** &ensp; Tu/Th 11:10am-12:30pm
 
-**SSP: Stories Covered in Chalk.**   M 1:25-2:20pm, Tu/Th 2:10-3:30pm
+**SSP: Stories Covered in Chalk.** &ensp; M 1:25-2:20pm, Tu/Th 2:10-3:30pm
 
