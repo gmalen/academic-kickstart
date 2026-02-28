@@ -63,6 +63,6 @@ user_groups:
 
 I am an Assistant Professor of Mathematics at Skidmore College. My research interests include topological and geometric data analysis, topological combinatorics, and combinatorial and stochastic topology.
 
-In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. I supervise the Putnam exam and other regional math competitions that students can compete in, and I am the Faculty Advisor for Skidmore's Pi Mu Epsilon chapter and the Math Club on campus. I am also on the steering committee for the annual Hudson River Undergraduate Math Conference (HRUMC); for more info see https://sites.google.com/view/hrumc.
+In addition to my teaching and research, I regularly supervise student research projects and independent studies in both pure and applied topics. I supervise the Putnam exam and other regional math competitions that students can compete in, and I am the Faculty Advisor for Skidmore's Pi Mu Epsilon chapter. I am also on the steering committee for the annual Hudson River Undergraduate Math Conference (HRUMC). This year's conference will be held at Vassar College on April 25; for more info see https://sites.google.com/view/hrumc.
 
 My other interests include: short stories; theatre and the performing arts; chess and old school card games; making a great defensive play in pickup basketball and immediately getting my shot blocked on the other end of the court; and playing soccer until my ankles spontaneously combust. 
