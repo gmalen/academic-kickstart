@@ -45,9 +45,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Courses for Fall 2023 (more info available in September):
+## Currently on sabbatical for Spring 2026. My scheduled courses for Fall 2026 are:
 
-**MA 113: Calc 2.** M 9:05-10:00am, Tu/Th 9:40-11:00am in Annex 216
+**MA 225H: Honors: Problem Solving.** W 4:00-5:20pm
 
-**MA 215: Intro to Proof.** M 1:25-2:20pm, Tu/Th 2:10-3:30pm in Bolton 100
+**MA 313: Intro to Topology.** Tu/Th 11:10am-12:30pm
+
+**SSP: Stories Covered in Chalk.** M 1:25-2:20pm, Tu/Th 2:10-3:30pm
 
